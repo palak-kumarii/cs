@@ -1,0 +1,24 @@
+h1 {
+    background-color: aqua;
+    color: blue;
+    text-align: center;
+    font-family: ROBOTO;
+    font-weight: lighter;
+    text-decoration: wavy;
+}
+
+.heading {
+    color: rgb(145, 9, 230) !important;
+}
+
+.heading1 {
+    color: rgb(226, 16, 37);
+}
+
+#head {
+    color: pink;
+}
+
+* {
+    color: aliceblue;
+}
