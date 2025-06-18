@@ -1,0 +1,18 @@
+.container1 {
+    /* background-color: brown; */
+    height: 500px;
+    width: 500px;
+    background-image: linear-gradient(to right, rgb(107, 199, 236), rgb(247, 126, 218), rgb(236, 120, 133));
+}
+
+.container2 {
+    height: 300px;
+    width: 300px;
+    background-image: radial-gradient(rgb(222, 241, 129), rgb(144, 235, 144), pink, rgb(17, 54, 185), rgb(222, 175, 89));
+}
+
+.container3 {
+    height: 300px;
+    width: 300px;
+    background-image: conic-gradient(rgb(93, 151, 239), rgb(246, 108, 179), rgb(145, 229, 128));
+}

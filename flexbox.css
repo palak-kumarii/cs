@@ -1,7 +1,7 @@
 .outer {
-    background-color: #333;
-    height: 200px;
-    width: 400px;
+    background-color: #eea0a2;
+    height: 500px;
+    width: 700px;
     margin: 30px;
     padding: 15px;
     display: flex;
@@ -15,10 +15,12 @@
 }
 
 .items {
-    background-color: #922828;
-    color: white;
+    height: 50px;
+    width: 50px;
+    background-color: #80c0e8;
+    color: rgb(96, 74, 236);
     padding: 10px;
-    border: 2px solid rgb(111, 158, 40);
+    border: 2px solid rgb(96, 74, 236);
     flex-grow: 5;
 }
 
